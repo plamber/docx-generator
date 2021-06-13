@@ -21,7 +21,7 @@ HTTP POST to the function
 
 ```
 {
-    "_TEMPLATE_URL" : "https://storageaccountrgpura359.blob.core.windows.net/tech-challenge-templates/Technical Assignment Template.docx",
+    "_TEMPLATE_URL" : "https://xyz.blob.core.windows.net/templates/Template.docx",
     "username" : "xyz@dev",
     "password" : "12345",
     "uri" : "https://somewhere.com",
